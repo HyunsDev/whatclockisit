@@ -1,0 +1,27 @@
+변경된 파일 구조
+
+프로그램 폴더
+    리소스
+        폰트, 폰트 라이센스
+
+
+APPDATA 폴더
+    Data
+        코어 라이브 데이터 ("clive.wcii")
+        코어 데이터* ("cini.ini")
+        세팅 데이터* ("uini.ini")
+        택스트 데이터 ("tt.wcii")
+
+    Temp
+        temp 이미지 ("showtemp.png")
+
+    resource
+        커스텀 텍스트 데이터* ("ctt.wcii")
+        수정된 배경 이미지 ("rsimage.png")
+        수정되지 않은 배경이미지* ("oriimage.png")
+        otf 폰트 ("font.otf")*
+        ttf 폰트 ("font.ttf")
+
+    log
+        에러 로그 ("wciierror.log")
+        일반 로그 ("wcii.log")

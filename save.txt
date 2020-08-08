@@ -1,0 +1,13 @@
+지금몇시계를 떠나보내기 전에 꼭 지금몇시계를 종료해주세요! (지금몇시계 설정에서 종료하실 수 있습니다!)
+
+지금몇시계가 떠났어요.. 슬프지만, 나중에 또 봐요!
+
+$APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\지금몇시계.lnk
+
+$ICONS_GROUP\지금몇시계\지금몇시계 설정.lnk
+$ICONS_GROUP\지금몇시계\지금몇시계 코어.lnk
+$ICONS_GROUP\지금몇시계\지금몇시계 초기화 툴.lnk
+
+$DESKTOP\지금몇시계 설정.lnk
+$DESKTOP\지금몇시계 코어.lnk
+

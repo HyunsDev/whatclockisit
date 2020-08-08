@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="exit">
+    <file>iconmonstr-x-mark-7-24.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>wcii_icon.png</file>
+  </qresource>
+  <qresource prefix="apply">
+    <file>wcii_ui_apply_hover.png</file>
+    <file>wcii_ui_apply.png</file>
+  </qresource>
+</RCC>

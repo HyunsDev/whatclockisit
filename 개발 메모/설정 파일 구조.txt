@@ -1,0 +1,13 @@
+[main]
+시계 위치 (clock_pos)
+시계위치 가로 (clock_x) : left, center, right
+시계위치 세로 (clock_y) : int
+문구위치 가로 (text_x) : int
+문구위치 세로 (text_y) : int
+배경색 (wall_color) : (r,g,b)
+배경종류 (wall_mode) : solid, picture
+문구색 (text_color) : (r,g,b)
+문구크기 (font_size) : int
+문구정렬 (font_align) : left, center, right
+로그 자동 전송 (go_log) : True, False
+문구 불러오기 모드 (where_text) : online, custom, offline

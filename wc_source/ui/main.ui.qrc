@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>wcii_icon.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>font.otf</file>
+  </qresource>
+  <qresource prefix="menuicon">
+    <file>.png</file>
+    <file>exit_icon.png</file>
+    <file>Gear_1_icon.png</file>
+    <file>Gear_2_icon.png</file>
+    <file>Gear_3_icon.png</file>
+    <file>iconmonstr-check-mark-5-24.png</file>
+    <file>info_icon.png</file>
+    <file>reset_icon.png</file>
+    <file>X_icobn.png</file>
+  </qresource>
+  <qresource prefix="texticon">
+    <file>wcii_ui_apply.png</file>
+    <file>wcii_ui_apply_hover.png</file>
+  </qresource>
+</RCC>

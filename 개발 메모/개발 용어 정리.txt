@@ -1,0 +1,12 @@
+지금몇시계 : wcii(wc)
+코어 : core(c)
+설정 : ui(u), 단 코드 파일 이름에 한하여 setting
+문구 : text(tt)
+커스텀 문구 : custum(ctt)
+리소스 : resource(rs)
+화면 : screen(sc)
+
+원본 사진 : oriimage.png
+수정된 사진 : rsimage.pnp
+
+ini를 제외한 데이터 파일 확장자 : *.wcii
